@@ -1,0 +1,14 @@
+.result{
+    background-color: gray;
+    height: 30%;
+    position: relative;
+    /* border-radius: 15px; */
+}
+
+.result p{
+    color: white;
+    font-size: 50px;
+    position: absolute; 
+    bottom: 0; 
+    right: 15px
+}

@@ -1,0 +1,10 @@
+.top {
+    height:600px;
+    width :400px;
+    background-color: yellow;
+    margin-left: 100px;
+    margin-top: 40px;
+    border-radius: 15px;
+    /* position: relative; */
+
+}

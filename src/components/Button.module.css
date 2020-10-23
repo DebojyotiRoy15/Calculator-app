@@ -1,0 +1,24 @@
+.bstyle{
+    height:14%;
+    width:25%;
+}
+
+.red{
+    background-color: #DC143C	 ;
+    font-size: 30px;
+    color: white;
+}
+
+.red:hover{
+    background-color: red;
+}
+
+.black{
+    background-color:  #483c32 ;
+    color: white;
+    font-size: 30px;
+}
+
+.black:hover{
+    background-color: black;
+}
